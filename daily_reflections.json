@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2025-10-29",
+    "completed_count": 2,
+    "skipped_count": 1,
+    "completion_rate": 66.66666666666666,
+    "summary_text": "Good job! Keep striving for even more progress.\n\nCompleted: 2 / 3 tasks\nSkipped: 1\nCompletion Rate: 66.7%\n\nTasks Completed: Go for a run, Read 20 pages\nTasks Skipped: Finish assignment\n",
+    "tasks_completed": [
+      "Go for a run",
+      "Read 20 pages"
+    ],
+    "tasks_skipped": [
+      "Finish assignment"
+    ]
+  },
+  {
+    "date": "2025-10-31",
+    "completed_count": 2,
+    "skipped_count": 4,
+    "completion_rate": 33.33333333333333,
+    "summary_text": "You made progress, but tomorrow is another opportunity!\n\nCompleted: 2 / 6 tasks\nSkipped: 4\nCompletion Rate: 33.3%\n\nTasks Completed: Complete remaining sections of the research draft, Review and edit the research draft for clarity and coherence\nTasks Skipped: Complete gym workout session, Respond to urgent emails, Process and respond to non-urgent emails, Review and revise Machine Learning notes\n",
+    "tasks_completed": [
+      "Complete remaining sections of the research draft",
+      "Review and edit the research draft for clarity and coherence"
+    ],
+    "tasks_skipped": [
+      "Complete gym workout session",
+      "Respond to urgent emails",
+      "Process and respond to non-urgent emails",
+      "Review and revise Machine Learning notes"
+    ]
+  },
+  {
+    "date": "2025-10-31",
+    "completed_count": 6,
+    "skipped_count": 1,
+    "completion_rate": 85.71428571428571,
+    "summary_text": "Excellent work today! \ud83c\udf89\n\nCompleted: 6 / 7 tasks\nSkipped: 1\nCompletion Rate: 85.7%\n\nTasks Completed: Review calendar and appointments for the day, Identify 3 most important tasks (MITs) for the day, Block out focused work sessions for top priorities, Quickly process urgent emails and communications, Plan a well-being activity (e.g., exercise, meditation), Briefly review and prepare for tomorrow's key task\nTasks Skipped: Schedule short breaks and lunch periods\n",
+    "tasks_completed": [
+      "Review calendar and appointments for the day",
+      "Identify 3 most important tasks (MITs) for the day",
+      "Block out focused work sessions for top priorities",
+      "Quickly process urgent emails and communications",
+      "Plan a well-being activity (e.g., exercise, meditation)",
+      "Briefly review and prepare for tomorrow's key task"
+    ],
+    "tasks_skipped": [
+      "Schedule short breaks and lunch periods"
+    ]
+  }
+]

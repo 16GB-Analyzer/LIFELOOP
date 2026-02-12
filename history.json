@@ -1,0 +1,161 @@
+{
+    "Gayatri": {
+        "2025-11-20": {
+            "Task": [
+                "Identify and prioritize today's top 3 critical project deliverables.",
+                "Dedicated focus block for Critical Project Deliverable #1.",
+                "Dedicated focus block for Critical Project Deliverable #2.",
+                "Engage in physical activity (e.g., workout, brisk walk).",
+                "Take a mindful break away from screens and hydrate.",
+                "Review progress on deliverables and mentally disconnect from work.",
+                "Plan or prepare a healthy evening meal."
+            ],
+            "Priority": [
+                "High",
+                "High",
+                "High",
+                "Medium",
+                "Medium",
+                "Medium",
+                "Low"
+            ],
+            "Time": [
+                "30 min",
+                "2 hours",
+                "1.5 hours",
+                "1 hour",
+                "15 min",
+                "30 min",
+                "45 min"
+            ],
+            "Completed": [
+                true,
+                false,
+                true,
+                true,
+                false,
+                true,
+                true
+            ],
+            "Time Slot": [
+                "09:00 AM - 09:30 AM",
+                "10:08 AM - 12:08 PM",
+                "12:46 PM - 01:16 PM",
+                "01:54 PM - 02:54 PM",
+                "03:32 PM - 03:47 PM",
+                "04:25 PM - 04:55 PM",
+                "05:33 PM - 06:18 PM"
+            ]
+        },
+        "2025-11-30": {
+            "Task": [
+                "Enter task 1 (e.g., Complete Report)",
+                "Enter task 2 (e.g., Exercise)"
+            ],
+            "Completed": [
+                false,
+                false
+            ],
+            "Priority": [
+                "Medium",
+                "Low"
+            ],
+            "Time": [
+                "30 min",
+                "1 hour"
+            ],
+            "Time Slot": [
+                "N/A",
+                "N/A"
+            ]
+        }
+    },
+    "Tejaswi": {
+        "2025-11-20": {
+            "Task": [
+                "Attend morning classes (session 1)",
+                "Attend morning classes (session 2)",
+                "Review AI for network project progress and plan next steps",
+                "Work on core development for AI for network project",
+                "Research or debug a specific challenge in AI for network project",
+                "Go to the gym for a workout session"
+            ],
+            "Priority": [
+                "High",
+                "High",
+                "High",
+                "High",
+                "Medium",
+                "Medium"
+            ],
+            "Time": [
+                "2 hours",
+                "1 hour",
+                "45 min",
+                "1.5 hours",
+                "1 hour",
+                "1 hour"
+            ],
+            "Completed": [
+                true,
+                true,
+                true,
+                false,
+                false,
+                true
+            ],
+            "Time Slot": [
+                "09:00 AM - 11:00 AM",
+                "11:37 AM - 12:37 PM",
+                "01:14 PM - 01:59 PM",
+                "02:36 PM - 03:06 PM",
+                "03:43 PM - 04:43 PM",
+                "05:20 PM - 06:20 PM"
+            ]
+        }
+    },
+    "Gayatri ": {
+        "2025-11-20": {
+            "Task": [
+                "Finalize critical project report/presentation for deadline.",
+                "Take a 30-minute brisk walk or engage in light exercise.",
+                "Review and provide feedback on a key team project deliverable.",
+                "Prepare and enjoy a healthy, screen-free lunch away from your desk.",
+                "Outline top 3 project priorities for tomorrow to ensure focus.",
+                "Dedicate time to a personal hobby or connect with family/friends."
+            ],
+            "Priority": [
+                "High",
+                "Medium",
+                "High",
+                "Medium",
+                "Medium",
+                "Low"
+            ],
+            "Time": [
+                "2 hours",
+                "30 min",
+                "1 hour",
+                "45 min",
+                "30 min",
+                "1.5 hours"
+            ],
+            "Completed": [
+                true,
+                true,
+                false,
+                false,
+                true,
+                false
+            ],
+            "Time Slot": [
+                "09:00 AM - 11:00 AM",
+                "01:34 PM - 02:04 PM",
+                "02:00 PM - 04:00 PM",
+                "02:51 PM - 03:36 PM",
+                "04:23 PM - 04:53 PM",
+                "05:40 PM - 06:10 PM"
+            ]
+        }
+    }
+}
